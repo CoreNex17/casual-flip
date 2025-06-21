@@ -1,11 +1,6 @@
 
 #task 1
 
-count = 1
-while count <=26:
-    print(count)
-    count= count + 2
-
 a=int(input("enter the number"))
 if a %2 == 0:
     print( a, 'is an even number')
